@@ -1,3 +1,7 @@
+# Archived
+
+https://github.com/conda/conda-pypi incorporates the ideas protyped in conda-pupa. See that project for further development.
+
 🐛 conda-pupa 🦋
 ===============
 
